@@ -1,0 +1,46 @@
+<p>     Localizada no coração da cidade a <strong>Barbearia Alura</strong> traz para o mercado o que há de melhor para o seu cabelo e barba. 
+Fundada em 2019, a Barbearia Alura já é destaque na cidade e conquista novos clientes a cada dia.
+
+Nossa missão é: "Proporcionar auto-estima e qualidade de vida aos clientes".
+
+Oferecemos profissionais experientes e antenados às mudanças no mundo da moda.
+
+O atendimento possui padrão de excelência e agilidade, garantindo qualidade e satisfação dos nossos clientes.
+
+<h2>Benefícios</h2>
+
+<ul>
+
+    <li class="itens">Atendimento aos Clientes</li>
+
+    <li class="itens">Espaço diferenciado</li>
+
+    <li class="itens">Localização</li>
+Profissionais Qualificados
+
+
+Home
+Produtos
+Contato
+Cabelo
+
+Na tesoura ou máquina, como o cliente preferir
+
+R$ 25,00
+
+Barba
+
+Corte e desenho profissional de barba
+
+R$ 18,00
+
+Cabelo + Barba
+
+Pacote co01
+mpleto de cabelo e barba
+
+R$ 35,00
+
+
+
+© Copyright Barbearia Alura - 2019
